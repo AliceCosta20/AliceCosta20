@@ -16,7 +16,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
           
 
 
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 
   
@@ -28,7 +28,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
           
 
   
-    <img height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
           
 
   
