@@ -5,14 +5,14 @@ Meu nome é Alice e sou estudante de "Desenvolvimento de Sistemas".
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boas praticas de desenvolvimento de software.
 
 ## Tecnologias em aprendizado
-*HTML
-*CSS
-*JavaScript
-*Node.Js
-*Git
-*GitHub
-*C#
-*Banco de Dados
+* HTML
+* CSS
+* JavaScript
+* Node.Js
+* Git
+* GitHub
+* C#
+* Banco de Dados
 
 ## Atualmente estudando
 
