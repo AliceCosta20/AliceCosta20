@@ -15,12 +15,13 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 *Banco de Dados
 
 ## Atualmente estudando
-*Lógica de Programação
-*Desenvolvimento Front-End
+
+* Lógica de Programação
+* Desenvolvimento Front-End
 * Desenvolvimento Back-End
-*APIs REST
-*Banco de Dados
-*Git e GitHub
+* APIs REST
+* Banco de Dados
+* Git e GitHub
 
 ## Projetos
 Neste GitHub você encontrará projeto, exercícios e atividade desenvolvidos durante meus estudos.
